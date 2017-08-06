@@ -1,5 +1,5 @@
 """
-PIG IMPLEMENTATION, the good one is goint to be implemented in C or Cython.
+PIG IMPLEMENTATION, the good one is going to be implemented in C or Cython.
 ^--^ ___
 (00){___}@
     || ||
